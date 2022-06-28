@@ -1,0 +1,6 @@
+server:
+  port: 8000
+debug:
+  test: true
+  update: false
+  delete: false
